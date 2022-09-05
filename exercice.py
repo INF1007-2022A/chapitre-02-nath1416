@@ -25,6 +25,5 @@ if __name__ == '__main__':
     for i in range(len(mots)):
         mots[i] = majuscule(mots[i])
 
-    print(find('HelloWorld','llo'))
 
     print(mots)
